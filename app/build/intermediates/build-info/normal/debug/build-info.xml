@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1542990447955"
+    timestamp="1543374155187"
     token="-2747038712149790026"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,20 +18,41 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="4152" />
     <task
         name="verifier"
-        duration="0" />
+        duration="17" />
 
     <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/resources/instant-run/normal/debug/resources-normal-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
         location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/resources/instant-run/normal/debug/resources-normal-debug.apk"
-        type="SPLIT" />
+        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/instant-run-apk/normal/debug/app-normal-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_3.apk"
         type="SPLIT" />
@@ -39,43 +60,43 @@
         location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/dep/dependencies.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/instant-run-apk/normal/debug/app-normal-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1542990447955"
+        timestamp="1543374155187"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/resources/instant-run/normal/debug/resources-normal-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/resources/instant-run/normal/debug/resources-normal-debug.apk"
-            type="SPLIT" />
+            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/instant-run-apk/normal/debug/app-normal-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_3.apk"
             type="SPLIT" />
@@ -83,29 +104,8 @@
             location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/dep/dependencies.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/split-apk/normal/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/build/intermediates/instant-run-apk/normal/debug/app-normal-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

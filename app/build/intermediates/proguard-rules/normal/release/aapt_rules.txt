@@ -121,28 +121,28 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_style_2.xml:57
 -keep class androidx.appcompat.widget.AppCompatImageButton { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_artist_details.xml:9
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_album.xml:10
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_blur_player.xml:10
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_blur.xml:10
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:84
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:67
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album_tag_editor.xml:53
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/pager_item.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album.xml:19
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_image.xml:22
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_album_card_cover.xml:19
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:9
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/activity_user_info.xml:52
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:61
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:26
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/pager_item.xml:17
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_list.xml:44
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_image_gradient.xml:18
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_image.xml:21
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_collage.xml:62
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_collage.xml:63
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist_square.xml:17
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_album_card.xml:16
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:42
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:52
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:10
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:60
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_material_cover.xml:19
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_flat_cover.xml:12
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_cover.xml:21
@@ -169,21 +169,21 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_artist.xml:22
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/fragment_mini_player.xml:28
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/activity_artist_content.xml:8
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:43
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_song.xml:19
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_queue.xml:35
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_list.xml:52
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_collage.xml:30
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist.xml:21
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player_playback_controls.xml:66
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:28
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:38
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_mini_player.xml:30
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material_playback_controls.xml:64
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_lock_screen_playback_controls.xml:30
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player_playback_controls.xml:65
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_fit_playback_controls.xml:63
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player_playback_controls.xml:63
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:62
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:72
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur_playback_controls.xml:65
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/card_credit.xml:28
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_search.xml:66
@@ -216,42 +216,42 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_equalizer.xml:41
 -keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_album.xml:35
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_simple_player.xml:66
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_player.xml:53
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:100
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:59
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:55
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_player.xml:37
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_blur_player.xml:38
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:79
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_home.xml:40
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:121
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_banner_home.xml:77
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_artist_details.xml:34
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_simple_player.xml:74
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:109
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:71
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:64
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:120
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_player.xml:46
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_blur_player.xml:42
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_blur.xml:85
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_settings.xml:20
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_artist_details.xml:26
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album_tag_editor.xml:20
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album.xml:27
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/4a7d2a4aa5fee0e7867aadbde755bdfc/res/layout-v26/abc_screen_toolbar.xml:37
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_player.xml:58
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:73
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_home.xml:41
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:75
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:34
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:34
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:17
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/jetified-material-cab-0.1.12.aar/eaebd53b4f6ed78481bac40a276a7f5f/res/layout/mcab_toolbar.xml:2
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:56
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:57
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:86
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:51
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:41
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:38
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:67
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:66
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:96
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:62
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:37
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:104
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:42
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:43
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:31
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:45
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:41
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_fit.xml:49
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:107
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:37
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:42
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:39
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:65
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:26
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:117
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:47
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:44
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:49
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:35
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/jetified-play-services-cast-framework-16.1.0.aar/850725d39541aebf5936d996e87aa308/res/layout/cast_expanded_controller_activity.xml:28
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_whats_new.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_user_info.xml:15
@@ -276,8 +276,8 @@
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/4a7d2a4aa5fee0e7867aadbde755bdfc/res/layout/abc_screen_simple.xml:25
 -keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:34
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_player.xml:49
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:44
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_player.xml:58
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_artist_details.xml:50
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_image.xml:13
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_album_card_cover.xml:8
@@ -285,7 +285,7 @@
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_artist_details.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_album.xml:2
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:18
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:11
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_settings.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album_tag_editor.xml:1
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album.xml:2
@@ -296,9 +296,9 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/sliding_music_panel_layout.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:20
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:20
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:2
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/54bb6f04ac0b42113e732c3e14a00b57/res/layout/design_bottom_sheet_dialog.xml:26
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_whats_new.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_user_info.xml:2
@@ -319,15 +319,15 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_about.xml:2
 -keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:24
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:22
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_artist_details.xml:33
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album_tag_editor.xml:71
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_banner_home.xml:24
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:41
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:42
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_settings.xml:2
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:66
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:22
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:55
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:85
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_song_tag_editor.xml:63
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_pro_version.xml:59
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_license.xml:40
@@ -383,13 +383,13 @@
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/preference-1.0.0.aar/c537d92dcb8efcebcf952a623650e9e8/res/layout/expand_button.xml:42
 -keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:108
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:105
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/preference-1.0.0.aar/c537d92dcb8efcebcf952a623650e9e8/res/layout/preference_recyclerview.xml:18
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/mediarouter-1.0.0.aar/236b694f244743bfb7f862a263d44070/res/layout/mr_picker_dialog.xml:34
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/mediarouter-1.0.0.aar/236b694f244743bfb7f862a263d44070/res/layout/mr_cast_dialog.xml:23
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/jetified-core-0.9.6.0.aar/1fa5fb63a841b48a97eef7ef11ee5155/res/layout/md_dialog_list_check.xml:39
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/jetified-core-0.9.6.0.aar/1fa5fb63a841b48a97eef7ef11ee5155/res/layout/md_dialog_list.xml:39
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:22
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:21
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dream_service.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_add_to_playlist.xml:36
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/card_credit.xml:20
@@ -442,7 +442,7 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/xml/pref_images.xml:5
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/xml/pref_general.xml:31
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/xml/pref_audio.xml:5
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/xml/pref_advanced.xml:9
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/xml/pref_advanced.xml:7
 -keep class code.name.monkey.appthemehelper.common.prefs.supportv7.ATESwitchPreference { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/appthemehelper/build/intermediates/packaged_res/release/layout/ate_preference_checkbox.xml:2
@@ -451,18 +451,21 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_search.xml:42
 -keep class code.name.monkey.appthemehelper.common.views.ATEEditText { <init>(...); }
 
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:60
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:68
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:93
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/activity_user_info.xml:20
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/sub_header.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/pager_item.xml:49
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_contributor.xml:31
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_card_color.xml:41
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist_square.xml:28
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_album_card.xml:23
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_controls_fragment.xml:23
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_settings.xml:41
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:36
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:40
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:46
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_sleep_timer.xml:14
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_promotional_offer.xml:34
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_playlist_rename.xml:10
@@ -483,21 +486,19 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_small.xml:82
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_content.xml:7
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album.xml:83
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/abs_playlists.xml:8
 -keep class code.name.monkey.appthemehelper.common.views.ATEPrimaryTextView { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:86
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_banner_home.xml:84
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_home.xml:48
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:102
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:24
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/pager_item.xml:35
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_playlist.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_contributor.xml:37
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_card_color.xml:48
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:17
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_controls_fragment.xml:37
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_settings.xml:51
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:41
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:45
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:72
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:44
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_sleep_timer.xml:25
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_remove_from_playlist.xml:7
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_promotional_offer.xml:51
@@ -511,7 +512,6 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_donation.xml:112
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_small.xml:91
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album.xml:92
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/abs_playlists.xml:8
 -keep class code.name.monkey.appthemehelper.common.views.ATESecondaryTextView { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/appthemehelper/build/intermediates/packaged_res/release/layout/ate_preference_switch_support.xml:2
@@ -546,49 +546,49 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player_playback_controls.xml:148
 -keep class code.name.monkey.retromusic.ui.fragments.VolumeFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:66
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:30
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:30
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:35
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_blur_player.xml:60
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_player.xml:31
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:45
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:29
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:30
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:59
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:24
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:63
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:44
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_blur_player.xml:64
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_player.xml:35
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:47
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:40
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:69
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:35
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:17
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:9
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:44
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:54
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_fit.xml:22
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:16
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:63
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:53
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:49
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:65
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:63
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:58
 -keep class code.name.monkey.retromusic.ui.fragments.player.PlayerAlbumCoverFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:62
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:71
 -keep class code.name.monkey.retromusic.ui.fragments.player.adaptive.AdaptivePlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:66
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:76
 -keep class code.name.monkey.retromusic.ui.fragments.player.blur.BlurPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:62
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:72
 -keep class code.name.monkey.retromusic.ui.fragments.player.card.CardPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:77
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:79
 -keep class code.name.monkey.retromusic.ui.fragments.player.cardblur.CardBlurPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:92
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:102
 -keep class code.name.monkey.retromusic.ui.fragments.player.color.ColorPlaybackControlsFragment { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_fit.xml:35
 -keep class code.name.monkey.retromusic.ui.fragments.player.fit.FitPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:57
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:67
 -keep class code.name.monkey.retromusic.ui.fragments.player.flat.FlatPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:29
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:32
 -keep class code.name.monkey.retromusic.ui.fragments.player.full.FullPlaybackControlsFragment { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:92
@@ -597,38 +597,36 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_lock_screen_old_style.xml:19
 -keep class code.name.monkey.retromusic.ui.fragments.player.lockscreen.LockScreenPlayerControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:37
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:48
 -keep class code.name.monkey.retromusic.ui.fragments.player.material.MaterialControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:43
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:52
 -keep class code.name.monkey.retromusic.ui.fragments.player.normal.PlayerPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:72
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:82
 -keep class code.name.monkey.retromusic.ui.fragments.player.plain.PlainPlaybackControlsFragment { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:42
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:53
 -keep class code.name.monkey.retromusic.ui.fragments.player.simple.SimplePlaybackControlsFragment { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/sliding_music_panel_layout.xml:46
 -keep class code.name.monkey.retromusic.views.BottomNavigationBarTinted { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:106
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:93
 -keep class code.name.monkey.retromusic.views.BreadCrumbLayout { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:76
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:96
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:64
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:80
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_album.xml:51
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_artist.xml:14
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_home.xml:58
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/activity_user_info.xml:79
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:33
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_grid_circle.xml:23
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist.xml:13
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_settings.xml:25
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:22
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:54
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:55
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:56
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:82
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:50
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:44
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:73
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_circle_cover.xml:13
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_user_info.xml:77
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_small.xml:53
@@ -637,23 +635,43 @@
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:132
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_playlist_detail.xml:87
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_playing_queue.xml:75
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_artist_details.xml:102
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album.xml:119
 -keep class code.name.monkey.retromusic.views.CollapsingFAB { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:28
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_simple_player.xml:19
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_player.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:12
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:18
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_card_player.xml:23
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_player.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:28
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/fragment_mini_player.xml:2
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:18
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:17
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:12
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_mini_player.xml:2
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:12
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:35
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_full.xml:21
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:18
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:18
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:24
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_blur_player.xml:24
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:26
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:12
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_lyrics.xml:14
 -keep class code.name.monkey.retromusic.views.FitSystemWindowsLayout { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_simple_player.xml:33
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_player.xml:29
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:26
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:25
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:31
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:29
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_blur.xml:43
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_simple_player.xml:41
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_player.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_plain_player.xml:35
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_material.xml:34
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_flat_player.xml:40
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_color_player.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_blur.xml:52
 -keep class code.name.monkey.retromusic.views.HeightFitSquareLayout { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/fragment_mini_player.xml:18
@@ -665,7 +683,8 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_volume.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_mini_player.xml:20
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_settings.xml:72
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:53
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:54
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:33
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_add_to_playlist.xml:20
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/card_social.xml:37
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/card_retro_info.xml:38
@@ -678,7 +697,7 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_lyrics.xml:118
 -keep class code.name.monkey.retromusic.views.LyricView { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:49
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/home_section_content.xml:47
 -keep class code.name.monkey.retromusic.views.MetalRecyclerViewPager { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_contributor.xml:15
@@ -691,11 +710,11 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:62
 -keep class code.name.monkey.retromusic.views.VerticalTextView { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:59
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_blur.xml:56
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_album.xml:29
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_image.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/item_artist.xml:10
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_blur.xml:41
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:28
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:29
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_image_gradient.xml:12
@@ -709,14 +728,14 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_card.xml:20
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist.xml:9
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/image.xml:2
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:25
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:25
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:55
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:19
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_simple_player.xml:36
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_player.xml:34
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_plain_player.xml:65
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_material.xml:30
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_hmm_player.xml:11
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:39
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:35
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:47
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_flat_player.xml:49
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:45
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_blur.xml:57
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_material_cover.xml:15
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_flat_cover.xml:7
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_cover.xml:17
@@ -749,15 +768,15 @@
 # Referenced at /Users/hemanths/.gradle/caches/transforms-1/files-1.1/jetified-play-services-cast-framework-16.1.0.aar/850725d39541aebf5936d996e87aa308/res/layout/cast_help_text.xml:2
 -keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_album.xml:17
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:43
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:63
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/activity_artist_details.xml:16
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_banner_home.xml:15
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/activity_settings.xml:7
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:17
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:25
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:22
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:20
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:27
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_whats_new.xml:9
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_user_info.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_song_tag_editor.xml:9
@@ -779,6 +798,7 @@
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_artist_details.xml:21
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:22
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_song_tag_editor.xml:16
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_settings.xml:14
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_pro_version.xml:31
@@ -797,7 +817,7 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_lyrics.xml:24
 -keep class com.google.android.material.bottomappbar.BottomAppBar { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:64
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_options.xml:65
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_sleep_timer.xml:52
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_playlist_rename.xml:53
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_delete.xml:20
@@ -806,13 +826,10 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_donation.xml:120
 -keep class com.google.android.material.button.MaterialButton { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge-land/fragment_banner_home.xml:42
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-land/fragment_home.xml:50
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/pager_item.xml:10
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_home.xml:32
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/fragment_banner_home.xml:42
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-xlarge/activity_album.xml:69
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/activity_user_info.xml:41
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout-sw600dp/abs_playlists.xml:9
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/pager_item.xml:10
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_list.xml:36
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_image_gradient.xml:2
@@ -824,17 +841,14 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_card.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_artist_square.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/item_album_card.xml:9
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_library.xml:32
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_home.xml:29
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:34
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:25
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:49
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:39
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_color_player.xml:35
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_card_player.xml:59
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_banner_home.xml:92
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_material_cover.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_full_card_cover.xml:8
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_cover.xml:9
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_album_card_cover.xml:8
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:41
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_adaptive_player.xml:50
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/dialog_promotional_offer.xml:15
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/collapsing_floating_action_button.xml:2
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/card_social.xml:13
@@ -895,9 +909,10 @@
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_album_tag_editor.xml:99
 -keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
 
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_activity_recycler_view.xml:7
-# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:80
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_main_activity_recycler_view.xml:8
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/fragment_folder.xml:67
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_playlist_detail.xml:67
+# Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/activity_playing_queue.xml:56
 -keep class com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView { <init>(...); }
 
 # Referenced at /Users/hemanths/Desktop/KeepSafe/RetroMusicPlayer/app/src/main/res/layout/sliding_music_panel_layout.xml:9

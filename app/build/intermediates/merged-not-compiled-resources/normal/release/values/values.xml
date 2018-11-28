@@ -1376,6 +1376,8 @@
     <declare-styleable name="CollapsingFAB">
         <attr format="color" name="shuffleBackgroundColor"/>
         <attr format="boolean" name="showTitle"/>
+        <attr format="reference" name="setIcon"/>
+        <attr format="string" name="setText"/>
     </declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout"><attr format="dimension" name="expandedTitleMargin"/><attr format="dimension" name="expandedTitleMarginStart"/><attr format="dimension" name="expandedTitleMarginTop"/><attr format="dimension" name="expandedTitleMarginEnd"/><attr format="dimension" name="expandedTitleMarginBottom"/><attr format="reference" name="expandedTitleTextAppearance"/><attr format="reference" name="collapsedTitleTextAppearance"/><attr format="color" name="contentScrim"/><attr format="color" name="statusBarScrim"/><attr format="reference" name="toolbarId"/><attr format="dimension" name="scrimVisibleHeightTrigger"/><attr format="integer" name="scrimAnimationDuration"/><attr name="collapsedTitleGravity">
       
@@ -3506,6 +3508,7 @@
     <string name="clear_action">Clear</string>
     <string name="clear_app_data">Clear app data</string>
     <string name="clear_blacklist">Clear blacklist</string>
+    <string name="clear_playing_queue">Clear queue</string>
     <string name="clear_playlist_title">Clear playlist</string>
     <string name="clear_playlist_x"><![CDATA[Clear the playlist <b>%1$s</b>? This can\u2019t be undone!]]></string>
     <string name="close_notification">Close</string>
@@ -3714,6 +3717,8 @@
     <string name="pref_keep_pause_on_zero_volume_title">Pause on zero</string>
     <string name="pref_keep_screen_on_summary">Keep in mind that enabling this feature may affect battery life</string>
     <string name="pref_keep_screen_on_title">Keep the screen on</string>
+    <string name="pref_now_playing_screen_summary">Click to open with or slide to without transparent navigation of now playing screen</string>
+    <string name="pref_now_playing_screen_title">Click or Slide</string>
     <string name="pref_only_lollipop">"Only available on Lollipop."</string>
     <string name="pref_summary_album_art_on_lockscreen">Use the currently playing song album cover as the lockscreen wallpaper</string>
     <string name="pref_summary_audio_ducking">Lower the volume when a system sound is played or a notification is received</string>
@@ -5334,7 +5339,8 @@
         <item name="android:gravity">center</item>
     </style>
     <style name="BigTitleTextAppearanceToolbar">
-        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline6</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline6
+        </item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="fontPath">@string/circular_std_black</item>
@@ -5878,12 +5884,11 @@
     <style name="SubTitleTextAppearance">
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="android:layout_gravity">start|center_vertical</item>
-        <item name="android:paddingStart">12dp</item>
-        <item name="android:paddingEnd">12dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="fontPath">@string/circular_std_black</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:paddingTop">8dp</item>
-        <item name="android:paddingBottom">8dp</item>
     </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
